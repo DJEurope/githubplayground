@@ -7,7 +7,6 @@ working on feature branch name new line
 working on rebasing for feature branch
 
 This is new bug fix
-
-This is new bug fix
 line from feature branch name
 working on feature branch name new line
+wrokng on master for rebase
