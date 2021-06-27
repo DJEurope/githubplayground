@@ -4,3 +4,6 @@ This is a remote repository
 line from feature branch name
 working on feature branch name new line
 working on rebasing for feature branch
+
+This is new bug fix
+
